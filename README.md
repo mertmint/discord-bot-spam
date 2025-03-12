@@ -1,5 +1,5 @@
 # discord-bot-spam
-WARNING this code allows discord bots to send messages WITHOUT breaking any discord rules
+WARNING this code allows discord bots to send messages to server channels WITHOUT breaking any Discord rules
 
 
 
